@@ -1,0 +1,4 @@
+user.email=kertu.tootsmann@gmail.com
+user.name=Kertu Tootsmann
+core.autocrlf=true
+core.editor=notepad
