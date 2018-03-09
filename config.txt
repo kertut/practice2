@@ -1,4 +1,0 @@
-user.email=kertu.tootsmann@gmail.com
-core.autocrlf=true
-core.editor=notepad
-.Python Contains info about Distribution / packaging
